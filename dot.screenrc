@@ -1,0 +1,4 @@
+escape ^z^z
+hardstatus on
+hardstatus alwayslastline "screen | %w"
+
